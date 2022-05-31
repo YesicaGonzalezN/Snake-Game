@@ -1,5 +1,5 @@
 # Snake-Game
-Juego Snake, creamo con:
+Juego Snake, creado con:
 HTML
 CSS
 JavaScript
