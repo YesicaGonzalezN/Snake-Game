@@ -1,5 +1,5 @@
 # SNAKE GAME
-Juego Snake, creado con:
+Snake Game, creado con:
 - HTML
 - CSS
 - JavaScript
